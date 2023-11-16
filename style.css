@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Rubik', sans-serif;
+}
+
+header {
+    background-color: rgb(255, 67, 67);
+    text-align: center;
+    color: white;
+    height: 5em;
+}
+
+.txt-header {
+    padding-top: 0.7em;
+}
+
+.txt-body {
+    color: black;
+    padding-top: 1.5em;
+    text-align: center;
+}
+
+.txt-body2 {
+    color: black;
+    padding-top: 2.5em;
+    text-align: center;
+}
+
+.txt-p {
+    color: black;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: center ;
+
+}
+
+.img {
+    width: 50em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    text-align: center;
+    margin-top: 3em;
+}
+
+.txt-mapa {
+    font-size: 1.2em;
+}
